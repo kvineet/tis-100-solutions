@@ -1,0 +1,135 @@
+@0
+     MOV 999 ACC
+S:   JNZ BW
+     MOV UP DOWN
+     JRO -3
+BW:  SUB 1
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     JMP S
+
+@1
+    MOV 999 ACC
+S:  JNZ BW
+    MOV RIGHT DOWN
+    JRO -3
+BW: SUB 1
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    JMP S
+
+@2
+     MOV 999 ACC
+S:   JNZ BW
+     MOV UP LEFT
+     JRO -3
+BW:  SUB 1
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     JMP S
+
+@3
+     MOV 999 ACC
+S:   JNZ BW
+     MOV UP DOWN
+     JRO -3
+BW:  SUB 1
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     JMP S
+
+@4
+     MOV 999 ACC
+S:   JNZ BW
+     MOV UP DOWN
+     JRO -3
+BW:  SUB 1
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     JMP S
+
+@5
+     MOV 999 ACC
+S:   JNZ BW
+     MOV UP DOWN
+     JRO -3
+BW:  SUB 1
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     JMP S
+
+@6
+     MOV 999 ACC
+S:   JNZ BW
+     MOV UP RIGHT
+     JRO -3
+BW:  SUB 1
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     JMP S
+
+@7
+     MOV 999 ACC
+S:   JNZ BW
+     MOV LEFT DOWN
+     JRO -3
+BW:  SUB 1
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     NOP
+     JMP S

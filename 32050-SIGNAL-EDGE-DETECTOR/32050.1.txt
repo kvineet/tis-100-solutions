@@ -1,0 +1,42 @@
+@0
+
+
+@1
+MOV ACC, DOWN
+MOV UP, ACC
+MOV ACC, DOWN
+
+@2
+
+
+@3
+
+
+@4
+
+
+@5
+MOV UP, RIGHT
+
+@6
+MOV LEFT, ACC
+SUB LEFT
+JGZ M
+NEG
+M:SUB 9
+MOV ACC, DOWN
+
+@7
+
+
+@8
+
+
+@9
+END:MOV UP, ACC
+JGZ P
+MOV 0, DOWN
+JMP END
+P:MOV 1, DOWN
+
+@10
