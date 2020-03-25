@@ -1,6 +1,6 @@
 # 32050 SIGNAL EDGE DETECTOR
 
-| file | Stats     |
-|------|-----------|
-| 0    | 266/5/16  |
-| 1    | 303/4/15  |
+## [32050.0](32050.0.txt)
+`266` CYCLES / `5` NODES / `16` INSTRUCTIONS
+## [32050.1](32050.1.txt)
+`303` CYCLES / `4` NODES / `15` INSTRUCTIONS

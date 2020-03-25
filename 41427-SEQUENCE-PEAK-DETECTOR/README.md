@@ -1,7 +1,6 @@
 # 41427 SEQUENCE PEAK DETECTOR
 
-| file | Stats     |
-|------|-----------|
-| 0    | 304/7/35  |
-| 1    | 503/8/48  |
-| 2    | 379/6/33  |
+## [41427.0](41427.0.txt)
+`304` CYCLES / `7` NODES  / `35` INSTRUCTIONS
+## [41427.1](41427.1.txt)
+`379` CYCLES / `6` NODES  / `33` INSTRUCTIONS

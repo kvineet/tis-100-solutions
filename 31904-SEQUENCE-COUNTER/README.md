@@ -1,7 +1,8 @@
 # 31904 SEQUENCE COUNTER
 
-| file | Stats     |
-|------|-----------|
-| 0    | 267/8/23  |
-| 1    | 392/6/20  |
-| 1    | 413/4/27  |
+## [31904.0](31904.0.txt)
+`267` CYCLES / `8` NODES / `23` INSTRUCTIONS
+## [31904.1](31904.1.txt)
+`392` CYCLES / `6` NODES / `20` INSTRUCTIONS
+## [31904.2](31904.2.txt)
+`413` CYCLES / `4` NODES / `27` INSTRUCTIONS

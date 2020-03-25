@@ -1,7 +1,8 @@
 # 30647 SEQUENCE GENERATOR
 
-| file | Stats     |
-|------|-----------|
-| 0    | 156/5/16  |
-| 1    | 145/4/19  |
-| 1    | 131/5/17  |
+## [30647.0](30647.0.txt)
+`156` CYCLES / `5` NODES / `16` INSTRUCTIONS
+## [30647.1](30647.1.txt)
+`145` CYCLES / `4` NODES / `19` INSTRUCTIONS
+## [30647.2](30647.2.txt)
+`131` CYCLES / `5` NODES / `17` INSTRUCTIONS

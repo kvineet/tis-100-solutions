@@ -1,7 +1,6 @@
 # 20176 DIFFERENTIAL CONVERTER
 
-| file | Stats     |
-|------|-----------|
-| 0    | 200/5/11  |
-| 1    | 240/5/10  |
-
+## [20176.0](20176.0.txt)
+`200` CYCLES / `5` NODES / `11` INSTRUCTIONS
+## [20176.1](20176.1.txt)
+`240` CYCLES / `5` NODES / `10` INSTRUCTIONS

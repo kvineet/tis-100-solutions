@@ -1,5 +1,4 @@
 # 42656 SEQUENCE REVERSER
 
-| file | Stats     |
-|------|-----------|
-| 0    | 373/4/13  |
+## [42656.0](42656.0.txt)
+`373` CYCLES / `4` NODES  / `13` INSTRUCTIONS

@@ -1,7 +1,7 @@
 # 22280 SIGNAL MULTIPLEXER
 
-| file | Stats     |
-|------|-----------|
-| 0    | 272/5/16  |
-| 1    | 212/7/21  |
+## [22280.0](22280.0.txt)
+`272` CYCLES / `5` NODES / `16` INSTRUCTIONS
+## [22280.1](22280.1.txt)
+`212` CYCLES / `7` NODES / `21` INSTRUCTIONS
 

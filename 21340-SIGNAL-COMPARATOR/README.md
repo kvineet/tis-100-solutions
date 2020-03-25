@@ -1,7 +1,6 @@
 # 21340 SIGNAL COMPARATOR
 
-| file | Stats     |
-|------|-----------|
-| 0    | 278/6/20  |
-| 1    | 368/5/19  |
-
+## [21340.0](21340.0.txt)
+`278` CYCLES / `6` NODES / `20` INSTRUCTIONS
+## [21340.1](21340.1.txt)
+`368` CYCLES / `5` NODES / `19` INSTRUCTIONS

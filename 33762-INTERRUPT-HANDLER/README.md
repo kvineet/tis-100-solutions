@@ -1,7 +1,8 @@
 # 33762 INTERRUPT HANDLER
 
-| file | Stats     |
-|------|-----------|
-| 0    | 234/9/46  |
-| 1    | 395/11/57 |
-| 2    | 290/11/58 |
+## [33762.0](33762.0.txt)
+`234` CYCLES / `9` NODES  / `46` INSTRUCTIONS
+## [33762.1](33762.1.txt)
+`395` CYCLES / `11` NODES / `57` INSTRUCTIONS
+## [33762.2](33762.2.txt)
+`290` CYCLES / `11` NODES / `58` INSTRUCTIONS
