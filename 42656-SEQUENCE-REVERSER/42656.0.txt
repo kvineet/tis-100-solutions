@@ -1,0 +1,36 @@
+@0
+
+
+@1
+   MOV 0, RIGHT
+S: MOV UP ACC
+   JEZ POP
+   MOV ACC RIGHT
+   JMP S
+POP:
+   MOV RIGHT, ACC
+   JEZ END
+   MOV ACC, DOWN
+   JMP POP
+END:
+   MOV NIL, DOWN
+
+@2
+
+
+@3
+
+
+@4
+MOV UP RIGHT
+
+@5
+MOV LEFT, DOWN
+
+@6
+
+
+@7
+MOV UP DOWN
+
+@8

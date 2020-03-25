@@ -1,6 +1,5 @@
 # 10981 SIGNAL AMPLIFIER
 
-| file | Stats     |
-|------|-----------|
-| 0    | 160/4/6   |
 
+## [10981.0](10981.0.txt)
+`160` CYCLES / `4` NODES / `6` INSTRUCTIONS

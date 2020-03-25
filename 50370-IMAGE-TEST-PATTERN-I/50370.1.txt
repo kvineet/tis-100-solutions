@@ -1,0 +1,43 @@
+@0
+
+
+@1
+
+
+@2
+
+
+@3
+
+
+@4
+
+
+@5
+
+
+@6
+
+
+@7
+
+
+@8
+
+
+@9
+MOV 17 ACC
+S: SAV
+MOV 0 DOWN
+MOV ACC DOWN
+MOV 29 ACC
+JLZ OUT
+MOV 3 DOWN
+SUB 1
+JRO -3
+OUT: MOV -1 DOWN
+SWP
+SUB 1
+JMP S
+
+@10

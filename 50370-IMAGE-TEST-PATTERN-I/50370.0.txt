@@ -1,0 +1,41 @@
+@0
+
+
+@1
+
+
+@2
+
+
+@3
+
+
+@4
+
+
+@5
+
+
+@6
+
+
+@7
+
+
+@8
+   MOV 17  ACC
+S: MOV ACC   RIGHT
+   SUB 1
+   JMP S
+
+@9
+MOV 0 DOWN
+MOV LEFT DOWN
+MOV 29 ACC
+JLZ OUT
+MOV 3 DOWN
+SUB 1
+JRO -3
+OUT: MOV -1 DOWN
+
+@10
